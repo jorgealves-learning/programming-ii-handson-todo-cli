@@ -1,0 +1,27 @@
+{
+  "name": "programming-ii-handson-todo-cli",
+  "version": "0.1.0",
+  "description": "CLI TODO App",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgealves-learning/programming-ii-handson-todo-cli.git"
+  },
+  "keywords": [
+    "CLI",
+    "TODO"
+  ],
+  "author": "Jorge Alves <jorge_alves at domain.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgealves-learning/programming-ii-handson-todo-cli/issues"
+  },
+  "homepage": "https://github.com/jorgealves-learning/programming-ii-handson-todo-cli#readme",
+  "dependencies": {
+    "winston": "^3.17.0"
+  }
+}
